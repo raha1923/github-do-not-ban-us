@@ -726,6 +726,7 @@ You can:
 - raben2 from Germany 🇩🇪 ([raben2](https://github.com/raben2))
 - Rafael Silvério Amaral from Brazil 🇧🇷 ([rafaelsilverioit](https://github.com/rafaelsilverioit))
 - Ragty from China 🇨🇳 ([Ragty](https://github.com/huoji555))
+- RaHa from Iran 🇨🇳 ([Ragty](https://github.com/raha1923))
 - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))
 - rajabiseraji from Iran 🇮🇷
 - Ran Luo from China 🇨🇳
